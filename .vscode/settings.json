@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "C:\\ProgramData\\Miniconda3\\python.exe",
+    "python.pythonPath": "/anaconda3/bin/python",
     "python.linting.enabled": true
 }
